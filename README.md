@@ -1,2 +1,2 @@
-# mod_3_machine_learning
+# mod_3_machine-learning
 Machine Learning
